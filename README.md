@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hello !! 👋
 
+### 👩‍🎓 About me:
+- Electrical & Computer Engineering Student @ Rutgers University
+- Minoring in Physics and Cognitive Science
+
+### 🐛 My Latest Projects:
+- [Binary Watch](https://github.com/ezafrir/EmmaWatch) - built from scratch, involving circuit design, PCB creation, 3D printing, and     C++ that displays time in binary
+- [Magic Table](https://github.com/ezafrir/MagicTable) - reacts to objects placed on it through proximity sensors and addressable LEDs;   modes controlled using an app I developed!
+- (can be seen on [timezpace.com](www.timezpace.com) !)
+
+### 📫 How to reach me...
+- Email: [emma@zafrir.org](emma@zafrir.org)
+- Linkedin: [linkedin.com/in/ezafrir/](https://www.linkedin.com/in/ezafrir/)
+  
 <!--
 **ezafrir/ezafrir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
