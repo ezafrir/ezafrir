@@ -1,4 +1,4 @@
-## Hello !! 👋
+## Hello !! 😊
 
 ### 👩‍🎓 About me:
 - Electrical & Computer Engineering Student @ Rutgers University
