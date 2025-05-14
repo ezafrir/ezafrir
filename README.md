@@ -6,7 +6,7 @@
 
 ### 🐛 My Latest Projects:
 - [Binary Watch](https://github.com/ezafrir/EmmaWatch) - PCB wrist watch that tells the time in binary through tiny addressable LEDs!     Built from scratch, involving circuit design, PCB creation, 3D printing, and C++!!
-- [Magic Table](https://github.com/ezafrir/MagicTable) - reacts to objects placed on it through proximity sensors and addressable LEDs;   modes controlled using an app I developed!
+- [Magic Table](https://github.com/ezafrir/MagicTable) - Table that reacts to objects placed on it through proximity sensors and addressable LEDs;   modes controlled using an app I developed!
 
 ### 🐇 Tech I'm Learning:
 - AI/ML through edX
