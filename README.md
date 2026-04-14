@@ -11,8 +11,6 @@
 ### 🐇 Tech I'm Learning:
 - AI/ML through edX
 - Qiskit & Quantum Computing
-- C/C++
-- Computer Architecture 
 
 ### 📫 How to reach me...
 - Email: [emma@zafrir.org](emma@zafrir.org)
