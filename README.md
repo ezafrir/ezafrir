@@ -5,6 +5,7 @@
 - Minoring in Physics and Cognitive Science
 
 ### 🐛 My Latest Projects:
+- [RASMUS](https://github.com/ezafrir/RASMUS) - web-based interface for interacting with a simulated LLM system that can rewrite its own frontend code based on the user's natural language instruction!
 - [Binary Watch](https://github.com/ezafrir/EmmaWatch) - PCB wrist watch that tells the time in binary through tiny addressable LEDs!     Built from scratch, involving circuit design, PCB creation, 3D printing, and C++!!
 - [Magic Table](https://github.com/ezafrir/MagicTable) - Table that reacts to objects placed on it through proximity sensors and addressable LEDs;   modes controlled using an app I developed!
 
